@@ -5,7 +5,7 @@
 synchronicity
 tt   $   @nqalan
 ig   $   @nqalan
-web  $   sense.ovh
+web  $   alan.rest
 ```
 &zwnj; 
 &zwnj; 
