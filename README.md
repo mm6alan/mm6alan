@@ -3,9 +3,9 @@
 
 ```cplusplus
 synchronicity
-tt   $   @nqalan
-ig   $   @nqalan
-web  $   alan.rest
+tt   $   @mm6alan
+ig   $   @mm6alan
+web  $   mm6.lol
 ```
 &zwnj; 
 &zwnj; 
