@@ -5,7 +5,7 @@
 synchronicity
 tt   $   @mm6alan
 ig   $   @mm6alan
-web  $   alan.rest
+web  $   mm6.lol
 ```
 &zwnj; 
 &zwnj; 
